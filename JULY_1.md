@@ -6,3 +6,6 @@ Today we discuss our ideal user flow of the app. Below are the mockups of each m
     - Track Monitor assumes that you already have monitors tracking, and sends you to your dashboard.
 - [Ian's Mockup](https://www.figma.com/file/QXUKWadWB4sItseYYRcI7K/Bottable-Mockup?node-id=0%3A1)
     - No website design made.
+- [Alan's Mockup](https://whimsical.com/3adiais39H6JJX63sJpSYS
+)
+- [Guo's Mockup]()
