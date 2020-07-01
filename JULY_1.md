@@ -11,3 +11,9 @@ Today we discuss our ideal user flow of the app. Below are the mockups of each m
 ## For Next Meeting
 
 Finalize the product.
+
+## Link
+
+[Product Whimsical](https://whimsical.com/L8Yx7Dw8LMaQkVMtr6wk5K)
+
+Goal: create product flow with screenshot ui.
